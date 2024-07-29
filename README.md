@@ -21,6 +21,13 @@ In this code , we demonstrate how PXGen can be applied to a Variational AutoEcod
 - Provides intuitive explanations .
 - Does not require information from training phase .
 - Offers diverse perspectives on expalnaions.
+  
+## Output of PXGen using Mnist dataset as Anchor set
+ 1. Anchor group of HIHE by K-Dispersion algorithm
+![image](https://github.com/user-attachments/assets/fd34f8b7-a7fc-4230-88d0-2e15ac764215)
+
+ 2. Anchor group of LILE by K-Dispersion algorithm
+![image](https://github.com/user-attachments/assets/c133969a-e97e-4427-a8bc-1ae3c1c46be1)
 
 ## Installation
 
@@ -33,4 +40,5 @@ Follow these steps to install and set up the project:
 ## Usage 
 ```bash
 python main.py
+
 
